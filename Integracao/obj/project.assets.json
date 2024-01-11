@@ -1,0 +1,186 @@
+{
+  "version": 3,
+  "targets": {
+    "net6.0": {
+      "LarAutoMapper/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "LarEntities": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/LarAutoMapper.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/LarAutoMapper.dll": {}
+        }
+      },
+      "LarContracts/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "LarEntities": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/LarContracts.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/LarContracts.dll": {}
+        }
+      },
+      "LarEntities/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/LarEntities.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/LarEntities.dll": {}
+        }
+      },
+      "LarRepository/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "LarContracts": "1.0.0",
+          "LarEntities": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/LarRepository.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/LarRepository.dll": {}
+        }
+      },
+      "LarService/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "LarContracts": "1.0.0",
+          "LarEntities": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/LarService.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/LarService.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "LarAutoMapper/1.0.0": {
+      "type": "project",
+      "path": "../AutoMapper/LarAutoMapper.csproj",
+      "msbuildProject": "../AutoMapper/LarAutoMapper.csproj"
+    },
+    "LarContracts/1.0.0": {
+      "type": "project",
+      "path": "../GContracts/LarContracts.csproj",
+      "msbuildProject": "../GContracts/LarContracts.csproj"
+    },
+    "LarEntities/1.0.0": {
+      "type": "project",
+      "path": "../GEntities/LarEntities.csproj",
+      "msbuildProject": "../GEntities/LarEntities.csproj"
+    },
+    "LarRepository/1.0.0": {
+      "type": "project",
+      "path": "../LarRepository/LarRepository.csproj",
+      "msbuildProject": "../LarRepository/LarRepository.csproj"
+    },
+    "LarService/1.0.0": {
+      "type": "project",
+      "path": "../LarService/LarService.csproj",
+      "msbuildProject": "../LarService/LarService.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net6.0": [
+      "LarAutoMapper >= 1.0.0",
+      "LarContracts >= 1.0.0",
+      "LarEntities >= 1.0.0",
+      "LarRepository >= 1.0.0",
+      "LarService >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\User\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {},
+    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\User\\source\\repos\\fabiano451\\Integracao\\Integracao\\WepApi.csproj",
+      "projectName": "WepApi",
+      "projectPath": "C:\\Users\\User\\source\\repos\\fabiano451\\Integracao\\Integracao\\WepApi.csproj",
+      "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\User\\source\\repos\\fabiano451\\Integracao\\Integracao\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+        "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\",
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net6.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\library-packs": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "projectReferences": {
+            "C:\\Users\\User\\source\\repos\\fabiano451\\Integracao\\AutoMapper\\LarAutoMapper.csproj": {
+              "projectPath": "C:\\Users\\User\\source\\repos\\fabiano451\\Integracao\\AutoMapper\\LarAutoMapper.csproj"
+            },
+            "C:\\Users\\User\\source\\repos\\fabiano451\\Integracao\\GContracts\\LarContracts.csproj": {
+              "projectPath": "C:\\Users\\User\\source\\repos\\fabiano451\\Integracao\\GContracts\\LarContracts.csproj"
+            },
+            "C:\\Users\\User\\source\\repos\\fabiano451\\Integracao\\GEntities\\LarEntities.csproj": {
+              "projectPath": "C:\\Users\\User\\source\\repos\\fabiano451\\Integracao\\GEntities\\LarEntities.csproj"
+            },
+            "C:\\Users\\User\\source\\repos\\fabiano451\\Integracao\\LarRepository\\LarRepository.csproj": {
+              "projectPath": "C:\\Users\\User\\source\\repos\\fabiano451\\Integracao\\LarRepository\\LarRepository.csproj"
+            },
+            "C:\\Users\\User\\source\\repos\\fabiano451\\Integracao\\LarService\\LarService.csproj": {
+              "projectPath": "C:\\Users\\User\\source\\repos\\fabiano451\\Integracao\\LarService\\LarService.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net6.0": {
+        "targetAlias": "net6.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.408\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

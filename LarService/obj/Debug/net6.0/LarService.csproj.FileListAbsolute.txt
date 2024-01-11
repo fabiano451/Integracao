@@ -1,0 +1,17 @@
+C:\Users\User\source\repos\LarService\obj\Debug\net6.0\LarService.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\LarService\obj\Debug\net6.0\LarService.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\LarService\obj\Debug\net6.0\LarService.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\LarService\obj\Debug\net6.0\LarService.AssemblyInfo.cs
+C:\Users\User\source\repos\LarService\obj\Debug\net6.0\LarService.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\LarService\bin\Debug\net6.0\LarService.deps.json
+C:\Users\User\source\repos\LarService\bin\Debug\net6.0\LarService.dll
+C:\Users\User\source\repos\LarService\bin\Debug\net6.0\LarService.pdb
+C:\Users\User\source\repos\LarService\bin\Debug\net6.0\LarContracts.dll
+C:\Users\User\source\repos\LarService\bin\Debug\net6.0\LarEntities.dll
+C:\Users\User\source\repos\LarService\bin\Debug\net6.0\LarContracts.pdb
+C:\Users\User\source\repos\LarService\bin\Debug\net6.0\LarEntities.pdb
+C:\Users\User\source\repos\LarService\obj\Debug\net6.0\LarService.csproj.CopyComplete
+C:\Users\User\source\repos\LarService\obj\Debug\net6.0\LarService.dll
+C:\Users\User\source\repos\LarService\obj\Debug\net6.0\refint\LarService.dll
+C:\Users\User\source\repos\LarService\obj\Debug\net6.0\LarService.pdb
+C:\Users\User\source\repos\LarService\obj\Debug\net6.0\ref\LarService.dll

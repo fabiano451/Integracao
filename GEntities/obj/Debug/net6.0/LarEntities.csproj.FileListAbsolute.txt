@@ -1,0 +1,12 @@
+C:\Users\User\source\repos\GEntities\obj\Debug\net6.0\LarEntities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\GEntities\obj\Debug\net6.0\LarEntities.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\GEntities\obj\Debug\net6.0\LarEntities.AssemblyInfo.cs
+C:\Users\User\source\repos\GEntities\obj\Debug\net6.0\LarEntities.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\GEntities\bin\Debug\net6.0\LarEntities.deps.json
+C:\Users\User\source\repos\GEntities\bin\Debug\net6.0\LarEntities.dll
+C:\Users\User\source\repos\GEntities\bin\Debug\net6.0\LarEntities.pdb
+C:\Users\User\source\repos\GEntities\obj\Debug\net6.0\LarEntities.dll
+C:\Users\User\source\repos\GEntities\obj\Debug\net6.0\refint\LarEntities.dll
+C:\Users\User\source\repos\GEntities\obj\Debug\net6.0\LarEntities.pdb
+C:\Users\User\source\repos\GEntities\obj\Debug\net6.0\ref\LarEntities.dll
+C:\Users\User\source\repos\GEntities\obj\Debug\net6.0\LarEntities.csproj.AssemblyReference.cache

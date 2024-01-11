@@ -1,0 +1,17 @@
+C:\Users\User\source\repos\LarRepository\obj\Debug\net6.0\LarRepository.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\LarRepository\obj\Debug\net6.0\LarRepository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\LarRepository\obj\Debug\net6.0\LarRepository.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\LarRepository\obj\Debug\net6.0\LarRepository.AssemblyInfo.cs
+C:\Users\User\source\repos\LarRepository\obj\Debug\net6.0\LarRepository.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\LarRepository\bin\Debug\net6.0\LarRepository.deps.json
+C:\Users\User\source\repos\LarRepository\bin\Debug\net6.0\LarRepository.dll
+C:\Users\User\source\repos\LarRepository\bin\Debug\net6.0\LarRepository.pdb
+C:\Users\User\source\repos\LarRepository\bin\Debug\net6.0\LarEntities.dll
+C:\Users\User\source\repos\LarRepository\bin\Debug\net6.0\LarEntities.pdb
+C:\Users\User\source\repos\LarRepository\obj\Debug\net6.0\LarRepository.csproj.CopyComplete
+C:\Users\User\source\repos\LarRepository\obj\Debug\net6.0\LarRepository.dll
+C:\Users\User\source\repos\LarRepository\obj\Debug\net6.0\refint\LarRepository.dll
+C:\Users\User\source\repos\LarRepository\obj\Debug\net6.0\LarRepository.pdb
+C:\Users\User\source\repos\LarRepository\obj\Debug\net6.0\ref\LarRepository.dll
+C:\Users\User\source\repos\LarRepository\bin\Debug\net6.0\LarContracts.dll
+C:\Users\User\source\repos\LarRepository\bin\Debug\net6.0\LarContracts.pdb

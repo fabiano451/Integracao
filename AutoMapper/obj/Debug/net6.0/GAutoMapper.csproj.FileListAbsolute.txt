@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\AutoMapper\bin\Debug\net6.0\GAutoMapper.deps.json
+C:\Users\User\source\repos\AutoMapper\bin\Debug\net6.0\GAutoMapper.dll
+C:\Users\User\source\repos\AutoMapper\bin\Debug\net6.0\GAutoMapper.pdb
+C:\Users\User\source\repos\AutoMapper\obj\Debug\net6.0\GAutoMapper.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\AutoMapper\obj\Debug\net6.0\GAutoMapper.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\AutoMapper\obj\Debug\net6.0\GAutoMapper.AssemblyInfo.cs
+C:\Users\User\source\repos\AutoMapper\obj\Debug\net6.0\GAutoMapper.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\AutoMapper\obj\Debug\net6.0\GAutoMapper.dll
+C:\Users\User\source\repos\AutoMapper\obj\Debug\net6.0\refint\GAutoMapper.dll
+C:\Users\User\source\repos\AutoMapper\obj\Debug\net6.0\GAutoMapper.pdb
+C:\Users\User\source\repos\AutoMapper\obj\Debug\net6.0\ref\GAutoMapper.dll

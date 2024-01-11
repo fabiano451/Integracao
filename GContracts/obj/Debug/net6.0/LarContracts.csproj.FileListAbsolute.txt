@@ -1,0 +1,15 @@
+C:\Users\User\source\repos\GContracts\bin\Debug\net6.0\LarContracts.deps.json
+C:\Users\User\source\repos\GContracts\bin\Debug\net6.0\LarContracts.dll
+C:\Users\User\source\repos\GContracts\bin\Debug\net6.0\LarContracts.pdb
+C:\Users\User\source\repos\GContracts\obj\Debug\net6.0\LarContracts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\GContracts\obj\Debug\net6.0\LarContracts.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\GContracts\obj\Debug\net6.0\LarContracts.AssemblyInfo.cs
+C:\Users\User\source\repos\GContracts\obj\Debug\net6.0\LarContracts.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\GContracts\obj\Debug\net6.0\LarContracts.dll
+C:\Users\User\source\repos\GContracts\obj\Debug\net6.0\refint\LarContracts.dll
+C:\Users\User\source\repos\GContracts\obj\Debug\net6.0\LarContracts.pdb
+C:\Users\User\source\repos\GContracts\obj\Debug\net6.0\ref\LarContracts.dll
+C:\Users\User\source\repos\GContracts\bin\Debug\net6.0\LarEntities.dll
+C:\Users\User\source\repos\GContracts\bin\Debug\net6.0\LarEntities.pdb
+C:\Users\User\source\repos\GContracts\obj\Debug\net6.0\LarContracts.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\GContracts\obj\Debug\net6.0\LarContracts.csproj.CopyComplete
